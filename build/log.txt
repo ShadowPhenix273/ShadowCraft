@@ -1,0 +1,1 @@
+python\python.exe: can't open file 'C:\\Users\\tajac\\Desktop\\games\\ShadowCraft\\build\\src\\main.pyc': [Errno 2] No such file or directory
